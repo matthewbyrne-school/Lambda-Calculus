@@ -1,5 +1,22 @@
 '''
-The Lambda Calculus
+The Lambda Calculus Input Panel
+
+Command Line input of λ-Calculus functions
+
+Can work as a module for creating functions within λ-Calculus outside of this program
+
+So far it has:
+
+	- Parsing for simple lambda calculus expression
+	- A β reduction feature
+	- An α conversion feature
+	
+	
+	
+Coming soon:
+	
+	- Support for combinatorial functions using regexes (e.g I-combinator, K-combinator, etc.)
+	- Allowing functions as input to other functions, ∀ functions ∈ Λ
 '''
 
 # Lambda Function
